@@ -1,2 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+    	<meta charset="UTF-8">
+    	<title>My dog Munequa</title>
+    </head>
+<body>
+<header> 
+<section id="Title">
+	<h1>My dog Munequa</h1>
+</section>
+
+</header>
+<section id="Maintext">
+	<p>Munequa is a Mostly Black, with a white belly shih poo dog. She is 10 years old and very hyper. the image bellow is close to what she looks like but not an actual photo of her</p>
+</section>
+<img id="lookalike" src="Munequa_look_a_like.jpeg" alt="Image of what Munequa kinda looks like">
+
+<footer><p>copyright 2020 all rights reserved</p>
+</body>
+</html>
